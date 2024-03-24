@@ -1,1 +1,1 @@
-Sample Sales Data using Tableau
+Sample Sales Data dashboarding using Tableau
